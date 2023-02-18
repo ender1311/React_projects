@@ -1,0 +1,38 @@
+[
+    {
+      "id": 101,
+      "name": "Camera Drone 4K Video",
+      "price": 1199,
+      "imgUrl": "/React_projects/ecommerce/imgs/drone.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Meze 99 Classics Walnut Gold Headphones",
+      "price": 309.00,
+      "imgUrl": "/React_projects/ecommerce/imgs/headphones.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Macbook Pro 13 inch",
+      "price": 999,
+      "imgUrl": "/React_projects/ecommerce/imgs/macbookpro.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Canon EOS Rebel T7 DSLR",
+      "price": 429,
+      "imgUrl": "/React_projects/ecommerce/imgs/canon_camera.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Amazon Echo Dot (4th Gen) Panda",
+      "price": 59.99,
+      "imgUrl": "/React_projects/ecommerce/imgs/echo_panda.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Bose Frames Tenor Smart Glasses",
+      "price": 124.50,
+      "imgUrl": "/React_projects/ecommerce/imgs/smart_glasses.jpg"
+    }
+  ]

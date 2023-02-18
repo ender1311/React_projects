@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Bluey Plush Bundle",
+      "price": 19.99,
+      "imgUrl": "/React_projects/ecommerce/imgs/bluey.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Giraffe",
+      "price": 9.99,
+      "imgUrl": "/React_projects/ecommerce/imgs/giraffe.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Panda",
+      "price": 9.45,
+      "imgUrl": "/React_projects/ecommerce/imgs/panda.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nemo",
+      "price": 24.99,
+      "imgUrl": "/React_projects/ecommerce/imgs/nemo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Reversible Octopus",
+      "price": 15.00,
+      "imgUrl": "/React_projects/ecommerce/imgs/octopus.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kangaroo",
+      "price": 19.95,
+      "imgUrl": "/React_projects/ecommerce/imgs/kangaroo.jpg"
+    }
+  ]
