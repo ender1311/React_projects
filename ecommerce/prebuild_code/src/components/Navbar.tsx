@@ -20,6 +20,9 @@ export function Navbar() {
                 <Nav.Link to="/React_projects/ecommerce/electronics" as={NavLink}>
                     Electronics 
                 </Nav.Link>
+                <Nav.Link to="/React_projects/ecommerce/tools" as={NavLink}>
+                    Tools 
+                </Nav.Link>
                 <Nav.Link to="/React_projects/ecommerce/about" as={NavLink}>
                     About 
                 </Nav.Link>
